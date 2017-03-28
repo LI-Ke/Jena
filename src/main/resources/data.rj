@@ -1,0 +1,106 @@
+{ 
+  "_:-62636485:15b0cb02dff:-7ffc" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#Given" : [ { 
+      "type" : "literal" ,
+      "value" : "Rebecca"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#Family" : [ { 
+      "type" : "literal" ,
+      "value" : "Smith"
+    }
+     ]
+  }
+   ,
+  "_:-62636485:15b0cb02dff:-7ffd" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#Given" : [ { 
+      "type" : "literal" ,
+      "value" : "Matthew"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#Family" : [ { 
+      "type" : "literal" ,
+      "value" : "Jones"
+    }
+     ]
+  }
+   ,
+  "http://somewhere/SarahJones/" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#FN" : [ { 
+      "type" : "literal" ,
+      "value" : "Sarah Jones"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#N" : [ { 
+      "type" : "bnode" ,
+      "value" : "_:-62636485:15b0cb02dff:-7ffe"
+    }
+     ]
+  }
+   ,
+  "http://somewhere/JohnSmith/" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#FN" : [ { 
+      "type" : "literal" ,
+      "value" : "John Smith"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#N" : [ { 
+      "type" : "bnode" ,
+      "value" : "_:-62636485:15b0cb02dff:-7fff"
+    }
+     ]
+  }
+   ,
+  "_:-62636485:15b0cb02dff:-7ffe" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#Given" : [ { 
+      "type" : "literal" ,
+      "value" : "Sarah"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#Family" : [ { 
+      "type" : "literal" ,
+      "value" : "Jones"
+    }
+     ]
+  }
+   ,
+  "http://somewhere/RebeccaSmith/" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#FN" : [ { 
+      "type" : "literal" ,
+      "value" : "Becky Smith"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#N" : [ { 
+      "type" : "bnode" ,
+      "value" : "_:-62636485:15b0cb02dff:-7ffc"
+    }
+     ]
+  }
+   ,
+  "_:-62636485:15b0cb02dff:-7fff" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#Given" : [ { 
+      "type" : "literal" ,
+      "value" : "John"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#Family" : [ { 
+      "type" : "literal" ,
+      "value" : "Smith"
+    }
+     ]
+  }
+   ,
+  "http://somewhere/MattJones/" : { 
+    "http://www.w3.org/2001/vcard-rdf/3.0#FN" : [ { 
+      "type" : "literal" ,
+      "value" : "Matt Jones"
+    }
+     ] ,
+    "http://www.w3.org/2001/vcard-rdf/3.0#N" : [ { 
+      "type" : "bnode" ,
+      "value" : "_:-62636485:15b0cb02dff:-7ffd"
+    }
+     ]
+  }
+}
+
