@@ -1,0 +1,52 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "Family" : "Smith",
+    "Given" : "Rebecca"
+  }, {
+    "@id" : "_:b1",
+    "Family" : "Jones",
+    "Given" : "Sarah"
+  }, {
+    "@id" : "_:b2",
+    "Family" : "Smith",
+    "Given" : "John"
+  }, {
+    "@id" : "_:b3",
+    "Family" : "Jones",
+    "Given" : "Matthew"
+  }, {
+    "@id" : "http://somewhere/JohnSmith/",
+    "FN" : "John Smith",
+    "N" : "_:b2"
+  }, {
+    "@id" : "http://somewhere/MattJones/",
+    "FN" : "Matt Jones",
+    "N" : "_:b3"
+  }, {
+    "@id" : "http://somewhere/RebeccaSmith/",
+    "FN" : "Becky Smith",
+    "N" : "_:b0"
+  }, {
+    "@id" : "http://somewhere/SarahJones/",
+    "FN" : "Sarah Jones",
+    "N" : "_:b1"
+  } ],
+  "@context" : {
+    "N" : {
+      "@id" : "http://www.w3.org/2001/vcard-rdf/3.0#N",
+      "@type" : "@id"
+    },
+    "FN" : {
+      "@id" : "http://www.w3.org/2001/vcard-rdf/3.0#FN"
+    },
+    "Given" : {
+      "@id" : "http://www.w3.org/2001/vcard-rdf/3.0#Given"
+    },
+    "Family" : {
+      "@id" : "http://www.w3.org/2001/vcard-rdf/3.0#Family"
+    },
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "vcard" : "http://www.w3.org/2001/vcard-rdf/3.0#"
+  }
+}
