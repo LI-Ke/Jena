@@ -1,0 +1,16 @@
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffe <http://www.w3.org/2001/vcard-rdf/3.0#Given> "Sarah" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffe <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Jones" .
+<http://somewhere/RebeccaSmith/> <http://www.w3.org/2001/vcard-rdf/3.0#N> _:B52593aX3A15b0ca4eaa4X3AX2D7ffc .
+<http://somewhere/RebeccaSmith/> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "Becky Smith" .
+<http://somewhere/SarahJones/> <http://www.w3.org/2001/vcard-rdf/3.0#N> _:B52593aX3A15b0ca4eaa4X3AX2D7ffe .
+<http://somewhere/SarahJones/> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "Sarah Jones" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffc <http://www.w3.org/2001/vcard-rdf/3.0#Given> "Rebecca" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffc <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Smith" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7fff <http://www.w3.org/2001/vcard-rdf/3.0#Given> "John" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7fff <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Smith" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffd <http://www.w3.org/2001/vcard-rdf/3.0#Given> "Matthew" .
+_:B52593aX3A15b0ca4eaa4X3AX2D7ffd <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Jones" .
+<http://somewhere/JohnSmith/> <http://www.w3.org/2001/vcard-rdf/3.0#N> _:B52593aX3A15b0ca4eaa4X3AX2D7fff .
+<http://somewhere/JohnSmith/> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "John Smith" .
+<http://somewhere/MattJones/> <http://www.w3.org/2001/vcard-rdf/3.0#N> _:B52593aX3A15b0ca4eaa4X3AX2D7ffd .
+<http://somewhere/MattJones/> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "Matt Jones" .

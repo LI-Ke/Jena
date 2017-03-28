@@ -1,0 +1,85 @@
+<trix xmlns="http://www.w3.org/2004/03/trix/trix-1/">
+  <graph>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffc</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Given</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Rebecca</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffc</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Family</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Smith</typedLiteral>
+    </triple>
+    <triple>
+      <uri>http://somewhere/RebeccaSmith/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#N</uri>
+      <id>17e69da4:15b0cb93fa0:-7ffc</id>
+    </triple>
+    <triple>
+      <uri>http://somewhere/RebeccaSmith/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#FN</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Becky Smith</typedLiteral>
+    </triple>
+    <triple>
+      <uri>http://somewhere/SarahJones/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#N</uri>
+      <id>17e69da4:15b0cb93fa0:-7ffe</id>
+    </triple>
+    <triple>
+      <uri>http://somewhere/SarahJones/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#FN</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Sarah Jones</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7fff</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Given</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">John</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7fff</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Family</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Smith</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffd</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Given</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Matthew</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffd</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Family</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Jones</typedLiteral>
+    </triple>
+    <triple>
+      <uri>http://somewhere/JohnSmith/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#N</uri>
+      <id>17e69da4:15b0cb93fa0:-7fff</id>
+    </triple>
+    <triple>
+      <uri>http://somewhere/JohnSmith/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#FN</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">John Smith</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffe</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Given</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Sarah</typedLiteral>
+    </triple>
+    <triple>
+      <id>17e69da4:15b0cb93fa0:-7ffe</id>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#Family</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Jones</typedLiteral>
+    </triple>
+    <triple>
+      <uri>http://somewhere/MattJones/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#N</uri>
+      <id>17e69da4:15b0cb93fa0:-7ffd</id>
+    </triple>
+    <triple>
+      <uri>http://somewhere/MattJones/</uri>
+      <uri>http://www.w3.org/2001/vcard-rdf/3.0#FN</uri>
+      <typedLiteral datatype="http://www.w3.org/2001/XMLSchema#string">Matt Jones</typedLiteral>
+    </triple>
+  </graph>
+</trix>
+
